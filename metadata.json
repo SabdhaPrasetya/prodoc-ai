@@ -1,0 +1,6 @@
+{
+  "name": "SpecForge — Studio PRD Berbasis AI & Kolaborasi Tim",
+  "description": "Platform pembuatan Product Requirements Document (PRD) berbasis AI dengan template profesional, ekspor otomatis ke PDF dan ZIP, integrasi Google Stitch, Trello, dan Jira, serta pelacakan revisi real-time multi-pengguna.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
